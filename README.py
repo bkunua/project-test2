@@ -1,2 +1,2 @@
 Print ("Hello World")
-Print 'Hello Group 3 members'
+Print 'Hello Group 3'
